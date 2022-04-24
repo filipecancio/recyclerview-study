@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15932117527862208" />
+        <entry key="app/src/main/res/font-v26/fira_code.xml" value="0.3296296296296296" />
+        <entry key="app/src/main/res/font/fira_code.xml" value="0.1" />
+        <entry key="app/src/main/res/font/fira_code_light.xml" value="0.3296296296296296" />
+        <entry key="app/src/main/res/font/fira_sans_light.xml" value="0.11574074074074074" />
+        <entry key="app/src/main/res/font/firacode.xml" value="0.11574074074074074" />
+        <entry key="app/src/main/res/layout-v28/activity_main.xml" value="0.32760416666666664" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
   </component>
